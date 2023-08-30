@@ -44,9 +44,10 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
 </div>
 
+
 <h2>💻My stats</h2>
 <div align="center">
-    <a href="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark&backgroundColor=010409">
+    <a href="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark">
         <img align="center" height=150 src="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark" alt="Leetcode Stats" width="360"  />
     </a>
   <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
