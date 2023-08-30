@@ -45,7 +45,7 @@
 </div>
 
 <h2>💻My stats</h2>
-<div style="display: flex; align="center">
+<div align="center">
     <a href="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark">
         <img src="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark" alt="Leetcode Stats" width="360">
     </a>
