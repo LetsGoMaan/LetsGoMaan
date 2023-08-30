@@ -47,10 +47,10 @@
 <h2>💻My stats</h2>
 <div style="display: flex; align="center">
     <a href="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark">
-        <img src="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark" alt="Leetcode Stats" width="500">
+        <img src="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark" alt="Leetcode Stats" width="360">
     </a>
   <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=LetsGoMaan&theme=dark" alt="Github Readme Codewars" width="500">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=LetsGoMaan&theme=dark" alt="Github Readme Codewars" width="360">
   </a>
 </div>
 
