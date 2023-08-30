@@ -21,10 +21,10 @@
 <a>
 <img width="60" src="assets/gmail.svg"/>
 </a>
-<a>
+<a href="https://github.com/LetsGoMaan" target="_blank">
 <img width="60" src="assets/github.svg"/>
 </a>
-<a>
+<a href="https://linkedin.com/in/letsgoman" target="_blank">
 <img width="60" src="assets/linkedin.svg"/>
 </a>
 
