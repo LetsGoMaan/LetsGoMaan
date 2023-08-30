@@ -2,18 +2,20 @@
 
 <h2 align="center">I'm Web Developer from Minsk🔥</h2>
 
-![GitHub Contribution Grid Snake (Dark)](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+    <img src="assets/snake.svg" alt="snake" />
+</div>
 
 <h2>Socials</h2>
 <div align="center">
-<a target="_blank">
-<img width="60" src="assets/gmail.svg"/>
+<a href="mailto:ilikeseik@gmail.com" target="_blank">
+<img width="75" src="assets/gmail.svg" alt="gmail" />
 </a>
 <a href="https://github.com/LetsGoMaan" target="_blank">
-<img width="60" src="assets/github.svg"/>
+<img width="75" src="assets/github.svg" alt="github" />
 </a>
 <a href="https://linkedin.com/in/letsgoman" target="_blank">
-<img width="60" src="assets/linkedin.svg"/>
+<img width="75" src="assets/linkedin.svg" alt="linkedin" />
 </a>
 </div>
 
