@@ -46,20 +46,20 @@
 
 <h2>💻My stats</h2>
 <div align="center">
-    <a href="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark">
-        <img src="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark" alt="Leetcode Stats" width="360">
+    <a href="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark&backgroundColor=010409">
+        <img align="center" height=150 src="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark" alt="Leetcode Stats" width="360"  />
     </a>
   <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
-    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=LetsGoMaan&theme=dark" alt="Github Readme Codewars" width="360">
+    <img align="center" height=200 src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=LetsGoMaan&theme=dark&borderColor=010409&backgroundColor=010409" alt="Github Readme Codewars" width="360"  />
   </a>
 </div>
 
 <div align="center">
     <a href="http://www.github.com/LetsGoMaan">
-        <img src="https://github-readme-stats.vercel.app/api?username=LetsGoMaan&show_icons=true&hide=issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="LetsGoMaan's GitHub stats" width="360" />
+        <img src="https://github-readme-stats.vercel.app/api?username=LetsGoMaan&show_icons=true&hide=issues,&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="LetsGoMaan's GitHub stats" width="360" height="200" />
     </a>
     <a href="http://www.github.com/LetsGoMaan">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LetsGoMaan&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="360" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LetsGoMaan&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="360" height="200" />
     </a>
 </div>
 
@@ -68,6 +68,9 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetsGoMaan&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="360" />
     </a>
 </div>
+
+
+
 
 
 
