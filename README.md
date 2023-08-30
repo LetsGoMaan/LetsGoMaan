@@ -17,6 +17,9 @@
 <a href="https://linkedin.com/in/letsgoman" target="_blank">
 <img width="75" src="assets/linkedin.svg" alt="linkedin" />
 </a>
+<a href="https://t.me/LetsGoMan" target="_blank">
+<img width="75" src="assets/telegram.svg" alt="telegram" />
+</a>
 </div>
 
 <h2>Skills</h2> 
