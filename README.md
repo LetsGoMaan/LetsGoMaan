@@ -1,27 +1,30 @@
 <h1 align="center" >👋Hi, my name is Andrey!</h1>
-
 <h2 align="center">I'm Web Developer from Minsk🔥</h2>
+
 
 <div align="center">
     <img src="assets/snake.svg" alt="snake" />
 </div>
 
-<h2>Socials</h2>
+
+<h2>📱Socials</h2>
 <div align="center">
 <a href="mailto:ilikeseik@gmail.com" target="_blank">
-<img width="75" src="assets/gmail.svg" alt="gmail" />
+<img width="100" src="assets/gmail.svg" alt="gmail" />
 </a>
 <a href="https://github.com/LetsGoMaan" target="_blank">
-<img width="75" src="assets/github.svg" alt="github" />
+<img width="100" src="assets/github.svg" alt="github" />
 </a>
 <a href="https://linkedin.com/in/letsgoman" target="_blank">
-<img width="75" src="assets/linkedin.svg" alt="linkedin" />
+<img width="100" src="assets/linkedin.svg" alt="linkedin" />
 </a>
 <a href="https://t.me/LetsGoMan" target="_blank">
-<img width="75" src="assets/telegram.svg" alt="telegram" />
+<img width="100" src="assets/telegram.svg" alt="telegram" />
 </a>
 </div>
-<h2>Skills</h2> 
+
+
+<h2>🧠Skills</h2> 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
@@ -41,10 +44,15 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
 </div>
 
-
-### 💻 Codewars:
-![Codewars](https://github.r2v.ch/codewars?user=LetsGoMaan&name=true)
-![Leetcode Stats](https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark)
+<h2>💻My stats</h2>
+<div style="display: flex; align="center">
+    <a href="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark">
+        <img src="https://leetcard.jacoblin.cool/LetsGoMaan?theme=dark" alt="Leetcode Stats" width="500">
+    </a>
+  <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=LetsGoMaan&theme=dark" alt="Github Readme Codewars" width="500">
+  </a>
+</div>
 
 <div>
 <a href="http://www.github.com/LetsGoMaan"><img src="https://github-readme-stats.vercel.app/api?username=LetsGoMaan&show_icons=true&hide=issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="LetsGoMaan's GitHub stats" /></a>
